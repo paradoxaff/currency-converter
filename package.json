@@ -1,0 +1,22 @@
+{
+  "name": "project-currency",
+  "version": "1.0.0",
+  "description": "this is currency converter project for typescript",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "affan"
+  },
+  "author": "affan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
